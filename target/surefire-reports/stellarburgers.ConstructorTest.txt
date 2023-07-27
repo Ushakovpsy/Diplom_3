@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: stellarburgers.ConstructorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.507 s - in stellarburgers.ConstructorTest
